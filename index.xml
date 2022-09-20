@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TShutova Docs Site</title>
+    <link>https://tshutovadocs.github.io/</link>
+    <description>Recent content on TShutova Docs Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tshutovadocs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>https://tshutovadocs.github.io/basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tshutovadocs.github.io/basics/</guid>
+      <description>The section contains brief overview.</description>
+    </item>
+  </channel>
+</rss>
